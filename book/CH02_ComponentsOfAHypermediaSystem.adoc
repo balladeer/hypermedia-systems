@@ -202,7 +202,7 @@ hypermedia has fallen on hard times.
 
 In any event, in a properly structured HTML-based hypermedia system you should use an appropriate HTTP method for the operation a
 particular hypermedia control performs: If a hypermedia control such as a button _deletes_ a resource, for example, ideally
-it should an HTTP `DELETE` request to do so.
+it should use an HTTP `DELETE` request to do so.
 
 .HTML & HTTP Methods
 ****
